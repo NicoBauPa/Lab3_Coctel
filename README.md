@@ -340,6 +340,7 @@ La señal es relativamente fuerte y mantiene una estructura con picos de amplitu
 La amplitud parece más grande que en la *voz filtrada, lo que sugiere que aún tiene componentes adicionales (posiblemente ruido de fondo)
 
 - **Señal 2 - "Voz Separada 2**
+
 ![image](https://github.com/user-attachments/assets/02923b6c-bd38-4769-8486-cc67db12f1ce)
 
 La forma de la onda es muy similar a la primera señal, pero se observa *una reducción de ruido* y mayor claridad en la estructura de la señal.
@@ -350,6 +351,7 @@ El filtrado pasa banda (150-4000 Hz) ha permitido *conservar las frecuencias de 
 Esta señal es la que se ha guardado en *"voz_sin_ruido.wav"* como el resultado óptimo
 
 - **Señal 3 - "Voz Separada 3**
+
 ![image](https://github.com/user-attachments/assets/264252f7-b309-4ac9-b740-66c4da8d914e)
 
 Es otra de las señales separadas por ICA.
