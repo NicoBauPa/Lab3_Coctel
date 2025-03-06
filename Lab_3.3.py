@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from scipy.io import wavfile
 
 # Ruta de la carpeta donde están los audios
-ruta_carpeta = r"C:\Users\Santiago\OneDrive\Pictures\Screenshots\SEXTO SEMESTRE\LABS SEÑALES\Lab3.3"
+ruta_carpeta = r"C:\Users\Nicole\OneDrive\Pictures\Screenshots\SEXTO SEMESTRE\LABS SEÑALES\Lab3.3"
 
 # Lista de audios a procesar
 archivos = ["Nicole.wav", "Gimena.wav", "Majo.wav", "ambiente.wav"]
