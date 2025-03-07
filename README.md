@@ -93,7 +93,8 @@ audio_data:los datos de la señal.
 (se toma solo el primer canal audio_data[:, 0]).
 Convierte la señal a flotante ( np.float32) para cálculos precisos.
 
-![image](https://github.com/user-attachments/assets/4b257f77-1102-4002-bb87-fa88e6e0bf04)
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/a2eb43b4-3fdc-42ed-9535-07d5298779c7" />
+
 
 Manejo de errores :
 
@@ -135,7 +136,8 @@ for archivo in archivos:
 Explicación del cálculo de SNR (Relación señal-ruido)
 El SNR se calcula con la fórmula:
 
-![image](https://github.com/user-attachments/assets/b4ef7945-e83c-4848-b154-b60ae3bca239)
+<img width="212" alt="image" src="https://github.com/user-attachments/assets/c2078987-e550-40b7-a2d7-2dc8785f6bce" />
+
 
 Si archivo == "ambiente.wav", el SNR es 0 dB porque es la referencia de ruido.
 Si la potencia de la señal es menor que la del ruido, se devuelve -inf(SNR indefinido).
