@@ -361,7 +361,9 @@ Se parece mucho a "Voz Separada 1", lo que indica que ambas contienen informaci�
 La señal final tiene un SNR menor que las señales originales , lo que sugiere que ICA ha separado la voz principal, pero también ha reducido su energía .
 ICA es menor, puede haber captado algo de ruido residual.
 
-<img width="415" alt="image" src="https://github.com/user-attachments/assets/ccd72797-b00e-4673-9e60-51be2e661c2f" />
+- Separación de señales con Beamforming
+
+
 
 ## Conclusión.
 
