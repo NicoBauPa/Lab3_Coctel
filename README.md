@@ -201,8 +201,6 @@ Se normalizan las señales.
 Se grafican en el dominio del tiempo y frecuencia.
 El código permite comparar señales de audio en términos de energía y ruido con una visualización efectiva.
 
-![image](https://github.com/user-attachments/assets/e2754e7e-81b0-43e4-9146-6a29688be1ca)
-
 - *SNR Nicole = 29.51 dB*
 Este es un *SNR alto*, lo que indica que la señal está limpia y tiene poco ruido de fondo.
 - *SNR Gimena = 29.84 dB*  
