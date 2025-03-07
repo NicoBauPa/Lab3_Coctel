@@ -369,3 +369,8 @@ El procesamiento de señales aplicado en el experimento permitió mejorar signif
 
 
 ## Referencias.
+- F. Sáenz, C. Romero, y P. Bernal, «Análisis de señales acústicas para dispositivos de personas con discapacidad, aplicando teoría de procesamiento de radar», 3 de junio de 2016. https://sedici.unlp.edu.ar/handle/10915/53175
+- O. C. L. Germán, «Análisis de la disminución del ruido en el estándar de audio DAB», 1 de febrero de 2021. https://dspace.ups.edu.ec/handle/123456789/19746
+- A. Estrella-T, D. Nicolalde-R, y C. Escobar-T, «Estimación de distancia de detección de cantos de rana en grabaciones automáticas de ecoacústica», Revistapuce, abr. 2018, doi: 10.26807/revpuce.v0i106.134.
+- C. L. Camila, «Comparación de métodos para reducir el ruido en señales emitidas por delfines Tursiops truncatus.», Repositorio de la Universidad Tecnológica de Pereira, 2015. https://repositorio.utp.edu.co/entities/publication/753d0a17-ccf2-435c-9b18-48573bb82435
+- G. Shankar, «Blind Source Separation using ICA - A Practical Guide to Separate Audio Signals», Gowri Shankar, 24 de julio de 2021. https://gowrishankar-info.translate.goog/blog/blind-source-separation-using-ica-a-practical-guide-to-separate-audio-signals/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
