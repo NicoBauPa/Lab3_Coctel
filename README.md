@@ -1,4 +1,4 @@
-# Lab3_Coctel
+# Laboratorio 3. Problema del coctel
 ## Introducción:
 En entornos ruidosos, como un evento tipo cóctel, múltiples conversaciones ocurren simultáneamente, lo que dificulta identificar y aislar una voz en particular. Este fenómeno, conocido como el "problema de la fiesta de cóctel", plantea un desafío tanto para la audición humana como para los sistemas de procesamiento de audio. En aplicaciones como el reconocimiento de voz, la mejora del habla y la cancelación de ruido, es fundamental desarrollar técnicas capaces de separar señales mezcladas provenientes de diferentes fuentes sonoras.
 
