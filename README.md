@@ -361,5 +361,11 @@ Se parece mucho a "Voz Separada 1", lo que indica que ambas contienen informaci�
 La señal final tiene un SNR menor que las señales originales , lo que sugiere que ICA ha separado la voz principal, pero también ha reducido su energía .
 ICA es menor, puede haber captado algo de ruido residual.
 
+<img width="415" alt="image" src="https://github.com/user-attachments/assets/ccd72797-b00e-4673-9e60-51be2e661c2f" />
+
 ## Conclusión.
+
+El procesamiento de señales aplicado en el experimento permitió mejorar significativamente la relación señal-ruido (SNR). Inicialmente, el ambiente presentó un SNR de 0 dB, lo que indica que el ruido predominaba completamente sobre la señal. Luego del procesamiento, se observaron mejoras, pues se alcanzaron valores de 29.51 dB para Nicole, 29.84 dB para Gimena y 24.36 dB para Majo. Sin embargo, en la etapa final del procesamiento, la SNR se redujo a 14.26 dB en los tres casos, esto demuestra que, si bien se logró una mejora en la extracción de la señal, aún persisten niveles considerables de ruido. Estos resultados destacan la efectividad de las técnicas empleadas, pero también indican la necesidad de optimizar los algoritmos para mejorar aún más la separación de señales y minimizar la pérdida de calidad en la señal recuperada, reconociendo una posible mayor efectividad para una proxima ejecución de este laboratorio en aumentar la distancia de la ubicación de los micrófonos ya que si los micrófonos están demasiado cerca de una fuente, captarán principalmente su sonido y tendrán dificultades para registrar las demás señales con claridad, lo que puede sesgar el procesamiento. Por el contrario, si los micrófonos están muy alejados o mal distribuidos, pueden captar un exceso de ruido ambiental y reflejos, dificultando la identificación precisa de cada fuente sonora.
+
+
 ## Referencias.
