@@ -1,8 +1,7 @@
 # Laboratorio 3. Problema del coctel
 ## Introducción:
-En entornos ruidosos, como un evento tipo cóctel, múltiples conversaciones ocurren simultáneamente, lo que dificulta identificar y aislar una voz en particular. Este fenómeno, conocido como el "problema de la fiesta de cóctel", plantea un desafío tanto para la audición humana como para los sistemas de procesamiento de audio. En aplicaciones como el reconocimiento de voz, la mejora del habla y la cancelación de ruido, es fundamental desarrollar técnicas capaces de separar señales mezcladas provenientes de diferentes fuentes sonoras.
-
-En este laboratorio, los estudiantes recrearán este problema instalando un arreglo de micrófonos estratégicamente ubicados para capturar el sonido de varias fuentes simultáneamente. El procesamiento y análisis de señales de audio es una técnica fundamental en el ámbito de la ingeniería de señales, telecomunicaciones y reconocimiento de voz. En este laboratorio, se trabajó con grabaciones de voz en formato WAV para evaluar su relación señal-ruido (SNR) y mejorar su calidad mediante técnicas de filtrado y separación de fuentes.
+En el presente laboratorio se explora el "problema de la fiesta de cóctel", que consiste en simular una conversación en un entorno ruidoso con múltiples fuentes de sonido. Utilizando un tres micrófonos (uno por integrante del grupo) con el fin de captar por medio de celulares a diversas distancias el sonido y percibido calcular el SNR de cada
+una de las señales, adicionalmente se realiza un análisis espectral con la tranformada rápida de fourier para cada señal, separando el ruido de la señal por medio de filtrado.
 
 ## Paso a paso:
 1. Configuración del sistema:
