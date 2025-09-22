@@ -65,7 +65,7 @@ numpy→ Para cálculos numéricos y procesamiento de señales.
 
 ```  
 ruta_carpeta = r"C:\Users\Nicole\OneDrive\Pictures\Screenshots\SEXTO SEMESTRE\LABS SEÑALES\Lab3.3"
-archivos = ["Nicole.wav", "Gimena.wav", "Majo.wav", "ambiente.wav"]
+archivos = ["Martin.wav", "Gabi.wav", "Majo.wav", "ambiente.wav"]
 
 ```
 Se define la ruta donde están los archivos de audio y se almacenan en ruta_carpeta.
